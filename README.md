@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning pain
 - I’m looking to collaborate on my scratch platformer
 - contact me on Talkomatic my user is IVGJESRJGHNBSMFGKJUESRG!KIAAAAAAAAAAAAAAAA😊😊😊😊😊
-  Fun fact abt me!!! i like drywall
+- Fun fact abt me!!! i like drywall
 
 <!---
 ToastCrown/ToastCrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
